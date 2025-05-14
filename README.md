@@ -44,3 +44,4 @@ Tengo experiencia en bases de datos como **SQL Server**, **MySQL** y **SQLite**,
 ### 📬 Contáctame
 - **Correo:** [joa.calderonm@gmail.com](mailto:joa.calderonm@gmail.com)
 - **LinkedIn:** [Joaquín Calderón](https://www.linkedin.com/in/joa-calderonm-informatico/)
+- **Curriculum:** [Curriculum Vitae](https://github.com/joacalderonm/joacalderonm/blob/main/Curriculum%20Vitae.pdf)

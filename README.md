@@ -1,6 +1,6 @@
 # Hola, soy **Joaquín Calderón** 👋
 
-Actualemente estoy cursando el cuarto año de Ingenieria en Informatica en Duoc UC. Me interesa el **Desarrollo Backend** y la **Inteligencía Artificial** durante mi educación he trabajado con lenguajes como **Python**, **JavaScript (JS)**, **TypeScript (TS)** y **Jupiter Notebook**, utilizando frameworks como **Node.js** y **Django**.
+Actualmente estoy cursando el cuarto año de Ingenieria en Informatica en Duoc UC. Me interesa el **Desarrollo Backend** y la **Inteligencía Artificial** durante mi educación he trabajado con lenguajes como **Python**, **JavaScript (JS)**, **TypeScript (TS)** y **Jupiter Notebook**, utilizando frameworks como **Node.js** y **Django**.
 
 Tengo experiencia en bases de datos como **SQL Server**, **MySQL** y **SQLite**, y también he comenzado a trabajar con **Docker** para gestionar entornos de desarrollo. Ademas, he estado trabajando con **TensorFlow** para desarrollar proyectos de **Machine Learning** y **Deep Learning**.
 

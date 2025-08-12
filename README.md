@@ -1,8 +1,10 @@
 # Hola, soy **Joaquín Calderón** 👋
 
-Actualmente estoy cursando el cuarto año de Ingenieria en Informatica en Duoc UC. Me interesa el **Desarrollo Backend** y la **Inteligencía Artificial** durante mi educación he trabajado con lenguajes como **Python**, **JavaScript (JS)**, **TypeScript (TS)** y **Jupiter Notebook**, utilizando frameworks como **Node.js** y **Django**.
+Estudiante de Ingenieria en Informatica en Duoc UC (último año). Con interés en las areas de **Desarrollo Backend**, **Computer Vision** y **Procesamiento de Lenaguaje Natural (NLP)**.
 
-Tengo experiencia en bases de datos como **SQL Server**, **MySQL** y **SQLite**, y también he comenzado a trabajar con **Docker** para gestionar entornos de desarrollo. Ademas, he estado trabajando con **TensorFlow** para desarrollar proyectos de **Machine Learning** y **Deep Learning**.
+Durante mi formación he trabajado con lenguajes como **Python**, **JavaScript (JS)**, **TypeScript (TS)** y **Jupiter Notebook**, utilizando frameworks como **Express.js** y **Django**, y librerías de IA como TensorFlow.
+
+Tambíen tengo experiencia en bases de datos como **SQL Server**, **MySQL** y **SQLite**, y en el uso de **Docker** para gestionar entornos de desarrollo.
 
 ### 🔧 Tecnologías y Herramientas
 - **Lenguajes de Programación:** 
@@ -12,7 +14,7 @@ Tengo experiencia en bases de datos como **SQL Server**, **MySQL** y **SQLite**,
   ![Jupter-Notebok](https://img.shields.io/badge/Jupyter%20Notebook-orange)
   
 - **Frameworks y Librerías:**
-  ![Node.js](https://img.shields.io/badge/Node.js-green)
+  ![Express](https://img.shields.io/badge/Express.js-green)
   ![Django](https://img.shields.io/badge/Django-purple)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
 
@@ -23,22 +25,27 @@ Tengo experiencia en bases de datos como **SQL Server**, **MySQL** y **SQLite**,
 
 - **DevOps:**
   ![Docker](https://img.shields.io/badge/Docker-blue)
+  ![GitHub](https://img.shields.io/badge/GitHub-gray)
 
 ### 📚 Proyectos en progreso
-1. **Citt-check**
-   - Desarrollo de un sistema backend usando node.js con Typescript para gestion de inventario y proyectos CITT.
-   - **Tecnologías:** node.js, typescript, SQL Server, Docker.
-
-2. **Aplicación de Deep Learning con TensorFlow**
-   - Desarrollo de un modelo de clasificación de imagenes usando TensorFlow.
+1. **Clasificador de imágenes con TensorFlow**
+   
+   Desarrollo de un modelo de Computer Vision para clasificación de imágenes usando CNNs.
    - **Tecnologías:** TensorFlow, Python, jupyter.
-
-3. **Proyecto con Duckiebot**
-    - Desarrollando un proyecto de robótica con **Duckiebot**, utilizando el aprendizaje por refuerzo para mejorar su navegación autónoma.
+  
+2. **Duckiebot Navegación autonoma**
+   
+   Aplicación de **Entreanmiento por Refuerzo** para mejorar la navegación autónoma de un DuckieBot. 
     - **Tecnologías:** Python, Duckietown.
+     
+3. **Citt-check**
+   
+    Sistema Backend para gestión de inventario y proyectos en el CITT (Puerto Montt). 
+   - **Tecnologías:** node.js, typescript, SQL Server, Docker.
  
-4. **Kondo**
-    - Trabajando con un robot de peleas llamado **Kondo(KHR-3V)**.
+4. **Robot Kondo KHR-3V**
+
+   Control y programación de movimientos en un robot de combate.
     - **Tecnologías:** Python, HeartToHeart4
 
 ### 📬 Contáctame
